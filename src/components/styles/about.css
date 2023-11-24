@@ -1,0 +1,38 @@
+.about-container {
+    background-color: #1a1a1a; /* Dark background color */
+    color: #fff; /* White text color */
+    padding: 40px;
+  }
+  
+  .section-title {
+    font-size: 32px;
+    color: #61dafb; /* Accent color, adjust as needed */
+  }
+  
+  .section-description {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
+  .experience-section {
+    margin-top: 40px;
+  }
+  
+  .experience-card {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #333;
+    border-radius: 8px;
+    background-color: #333;
+  }
+  
+  .experience-title {
+    font-size: 24px;
+    color: #61dafb; /* Accent color, adjust as needed */
+  }
+  
+  .experience-description {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  

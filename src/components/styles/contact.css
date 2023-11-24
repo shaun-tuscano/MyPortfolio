@@ -1,0 +1,74 @@
+.contact-container {
+    background-color: black; /* Dark background color */
+    color: #fff; /* Light text color */
+    padding: 40px;
+    padding-bottom: 0px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 86vh; /* Set minimum height to cover the entire viewport */
+  }
+  
+  .contact-details {
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    width: 100%;
+  }
+  
+  .contact-column,
+  .social-column {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 28px;
+    color: #fff; /* Light text color */
+  }
+  
+  .contact-column p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  
+  .social-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .social-links li {
+    margin-bottom: 10px;
+  }
+  
+  .social-links a {
+    display: inline-block;
+    text-decoration: none;
+  }
+  
+  .social-links img {
+    width: 40px; /* Adjust the size as needed */
+    height: 40px; /* Adjust the size as needed */
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+  }
+  
+  .social-links img:hover {
+    transform: scale(1.2);
+  }
+  
+  @media screen and (min-width: 768px) {
+    .contact-details {
+      flex-direction: row;
+    }
+  
+    .contact-column,
+    .social-column {
+      flex: 1;
+    }
+  }
+  
