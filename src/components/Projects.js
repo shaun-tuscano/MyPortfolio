@@ -2,6 +2,7 @@ import "./styles/projects.css"
 import todoImg from "../assests/todo.jpg"
 import careerImg from "../assests/career.jpg"
 import portfolioImg from "../assests/protfolio.jpg"
+import moodImg from "../assests/mood.jpg"
 
 const data = [
 
@@ -23,6 +24,13 @@ const data = [
         imgUrl: todoImg,
         websiteUrl: "https://shaun-tuscano.github.io/Todo-List/"
     },
+    {
+        title: "Mood Detector",
+        description: "I spearheaded the development of a Mood Detector website leveraging the ChatGPT API. This innovative platform allows users to articulate their daily experiences and emotions, generating personalized emoji-based responses. The project demonstrates my proficiency in front-end development, API integration, and user experience design, showcasing a commitment to creating engaging and emotionally intelligent web applications.",
+        imgUrl: moodImg,
+        websiteUrl: "https://shaun-tuscano.github.io/Mood_detector/"
+    },
+
 
 ]
 
