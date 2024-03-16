@@ -10,8 +10,8 @@ function About() {
 				<div className="about-section">
 					<h2 className="section-title">About Me</h2>
 					<p className="section-description">
-						Dedicated and results-driven Frontend Software Developer with 2+ years of experience in designing and
-						developing innovative user interfaces for dynamic web applications. Proven expertise in translating product requirements into scalable, high-performance, and user-friendly frontend solutions.Actively seeking
+						Dedicated and results-driven Software Developer with 2+ years of experience in designing and
+						developing innovative user interfaces for dynamic web applications. Proven expertise in translating product requirements into scalable, high-performance, and user-friendly frontend and backend solutions.Actively seeking
 						a position that offers challenging projects, providing a platform to showcase my skills and continually
 						learn in a dynamic professional environment.
 					</p>

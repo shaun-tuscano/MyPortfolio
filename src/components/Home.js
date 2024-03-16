@@ -20,7 +20,7 @@ function Homepage() {
 
           <div className="content">
             <p>HI, I'M SHAUN TUSCANO.</p>
-            <h1> A React Developer.</h1>
+            <h1> A Software Developer.</h1>
             <div>
               <a href="https://drive.google.com/file/d/13XdOtFStjbdlv6SiggXzo2jKvn8hcZi2/view?usp=sharing" className="btn" target="_blank" rel="noopener noreferrer"> Resume</a>
 
