@@ -22,7 +22,7 @@ function Homepage() {
             <p>HI, I'M SHAUN TUSCANO.</p>
             <h1> A Software Developer.</h1>
             <div>
-              <a href="https://drive.google.com/file/d/13XdOtFStjbdlv6SiggXzo2jKvn8hcZi2/view?usp=sharing" className="btn" target="_blank" rel="noopener noreferrer"> Resume</a>
+              <a href="https://drive.google.com/file/d/1uzUYNwJUbBxc-AHF2wl6DkbliWtdSf9_/view?usp=drive_link" className="btn" target="_blank" rel="noopener noreferrer"> Resume</a>
 
               <Link to="/contact"
                 className="btn btn-light">

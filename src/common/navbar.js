@@ -38,7 +38,7 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-							<a href="https://drive.google.com/file/d/1jZczpB5sik0e2Ngzk1fPDFP3d5eYMafH/view?usp=drive_link" target="_blank" rel="noopener noreferrer"> Resume</a>
+							<a href="https://drive.google.com/file/d/1uzUYNwJUbBxc-AHF2wl6DkbliWtdSf9_/view?usp=drive_link" target="_blank" rel="noopener noreferrer"> Resume</a>
 							</li>
 							
 							<li

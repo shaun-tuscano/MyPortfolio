@@ -10,10 +10,9 @@ function About() {
 				<div className="about-section">
 					<h2 className="section-title">About Me</h2>
 					<p className="section-description">
-						Dedicated and results-driven Software Developer with 2+ years of experience in designing and
-						developing innovative user interfaces for dynamic web applications. Proven expertise in translating product requirements into scalable, high-performance, and user-friendly frontend and backend solutions.Actively seeking
-						a position that offers challenging projects, providing a platform to showcase my skills and continually
-						learn in a dynamic professional environment.
+						Experienced Full-Stack Developer with over 3 years of expertise in designing, developing, and maintaining web
+						applications. I was part of a team that designed and implemented a user-based recommendation system for
+						websites. Actively seeking an opportunity to learn new technologies and enhance customer satisfaction.
 					</p>
 				</div>
 
@@ -21,8 +20,24 @@ function About() {
 					<h2 className="section-title">Work Experience</h2>
 
 					<div className="experience-card">
-						<h3 className="experience-title">Front-end Developer - Jio Platforms Limited</h3>
-						<p className="section-description">Feb 2022 - Present</p>
+						<h3 className="experience-title">Full-Stack Developer - Pharmarack Technologies</h3>
+						<p className="section-description">June 2024 - Present</p>
+						<p className="experience-description">
+							<ul>
+								<li>Refactored and transitioned the existing HTML codebase to React.js, dramatically enhancing performance and
+								optimization, resulting in a 25% increase in overall performance.</li>
+								<li>Analyzed and addressed 20+ critical software bugs by developing targeted solutions.</li>
+								<li>Currently developing and maintaining full-stack web applications with a focus on enhancing functionality and user
+								experience.</li>
+								<li>Collaborated with clients to understand their requirements and translated them into robust features, aligning product
+								development with client needs.</li>
+							</ul>
+						</p>
+					</div>
+
+					<div className="experience-card">
+						<h3 className="experience-title">Software Developer - Jio Platforms Limited</h3>
+						<p className="section-description">Oct 2021 - June 2024</p>
 						<p className="experience-description">
 							<ul>
 								<li> Actively contributed to the development of a modernized user interface for an existing product,
@@ -43,19 +58,7 @@ function About() {
 							</ul>
 						</p>
 					</div>
-					<div className="experience-card">
-						<h3 className="experience-title">QA Tester - Jio Platforms Limited</h3>
-						<p className="section-description">Oct 2021 - Jan 2022</p>
-						<p className="experience-description">
-							<ul>
-								<li>Understanding and analyzing test requirements.</li>
-								<li>Contributing to test plan documentation.</li>
-								<li>Executing all levels of testing (Beta testing, Smoke testing, Regression) and uploading bugs on DevOps tracking tool</li>
-								<li>Communicating and collaborating with a team of 20+ testers.</li>
-								<li>Participating in different types of test environments such as PC, Android, iOS.</li>
-							</ul>
-						</p>
-					</div>
+					
 
 
 				</div>
